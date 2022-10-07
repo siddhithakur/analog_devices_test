@@ -19,3 +19,6 @@ python linecount.py filepath <--optional file extension-->
   <p>Valid directory for fetching text files, non text files are not supported.
   <p>Files are not encrypted.
   
+# Script for getting line count of files in windows system
+ 
+ Check the windows folder
