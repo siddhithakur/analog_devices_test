@@ -9,20 +9,8 @@ python linecount.py filepath <--optional file extension-->
 <p>os
 <p>sys
 
-# Folder structure
-  .
-+--testcases
-|+--  inner 
-  analog_devices_test
-  <p>     |
-  <p>     |-testcases
-  <p>          | - inner 
-  <p>          |     |-  texttext.txt
-  <p>          | - newfile1.txt
-  <p>          | - hello.py
-  <p>     | - linecount.py
-  <p>     | - test_linecount.py
-        
+# Unit Tests
+      
 testcases folder contains dummy files for running unit tests
 test_lincount unit tests for the linecount.py
 
