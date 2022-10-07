@@ -3,7 +3,7 @@ Python Script to Count number of lines in text files
 
 # Steps to run the file
 
-python linecount.py filepath <--optional file extension-->
+python linecount.py filepath <--optional file extension Defualts to .txt-->
 
 # libraries used
 <p>os
