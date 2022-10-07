@@ -44,7 +44,7 @@ pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesse
     
 def process_image_pdf(path):
     Pdf_file_path = path #your file path
-    Images = convert_from_path(Pdf_file_path, dpi=500,poppler_path='D:\\Test\\analog devices\\Release-21.11.0-0\\poppler-21.11.0\\Library\\bin')
+    Images = convert_from_path(Pdf_file_path, dpi=500,poppler_path=.\\Release-21.11.0-0\\poppler-21.11.0\\Library\\bin')
     c=0
     Counter=1
     for page in Images:
