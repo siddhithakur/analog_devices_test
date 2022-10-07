@@ -11,14 +11,14 @@ sys
 
 # Folder structure
   analog_devices_test
-        |
-        |-testcases
-            | - inner 
-            |     |-  texttext.txt
-            | - newfile1.txt
-            | - hello.py
-        | - linecount.py
-        | - test_linecount.py
+  <p>      |
+  <p>     |-testcases
+   <p>           | - inner 
+    <p>          |     |-  texttext.txt
+   <p>           | - newfile1.txt
+   <p>           | - hello.py
+    <p>      | - linecount.py
+   <p>       | - test_linecount.py
         
 testcases folder contains dummy files for running unit tests
 test_lincount unit tests for the linecount.py
