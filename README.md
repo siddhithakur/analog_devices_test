@@ -10,7 +10,8 @@ python linecount.py filepath <--optional file extension-->
 <p>sys
 
 # Unit Tests
-      
+<p>python test_linecount.py
+<p>    
 <p>testcases folder contains dummy files for running unit tests
 <p>test_linecount.py -->  unit tests for the linecount.py
 
