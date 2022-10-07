@@ -11,8 +11,8 @@ python linecount.py filepath <--optional file extension-->
 
 # Unit Tests
       
-testcases folder contains dummy files for running unit tests
-test_lincount unit tests for the linecount.py
+<p>testcases folder contains dummy files for running unit tests
+<p>test_lincount unit tests for the linecount.py
 
 # Assumptions
   <p>Valid directory for fetching text files, non text files are not supported.
